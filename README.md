@@ -51,11 +51,6 @@ WHERE column_name IS NULL;
 - Database Management Systems
 
 ## 🤝 Contributing
-If you'd like to improve this project, feel free to fork the repository and submit a pull request.
+Feel free to fork the repository and submit a pull request if you'd like to improve this project.
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
 
----
-
-🔍 **For questions or suggestions, feel free to open an issue!** 😊
